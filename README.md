@@ -4,6 +4,9 @@ This repository hosts the code and resources for an interactive dashboard that p
 
 Features :
 Interactive Dashboard: Built with Excel pivot table and slicers
+
 Real-Time Insights: Explore sales trends, product performance, and financial summaries interactively.
+
 Customizable Filters: Filter data by date range, product category, regions, or custom metrics.
+
 Clean Data Integration: Based on khan store data analysis.xlsx, structured and ready for visual exploration.
